@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My Life Your Entertainment 
 header-img: img/home-bg.png
 email: eric.desimone@cortland.edu
 copyright_name: RickySauce
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the Subtitle 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RickySauce
